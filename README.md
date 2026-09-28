@@ -1,6 +1,6 @@
-# Emu Defense
+# Farm Defense
 
-`Emu Defense` is a fast-paced browser strategy game where you defend a wheat farm from relentless emu attacks.
+`Farm Defense` is a fast-paced browser strategy game where you defend a wheat farm from relentless emu attacks.
 
 ## Live Demo
 
